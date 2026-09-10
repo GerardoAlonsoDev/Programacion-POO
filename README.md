@@ -18,4 +18,4 @@
 * **`/ejercicios`**: Prácticas de lógica y fundamentos orientados a objetos.
 * **`/patrones`**: Ejemplos de arquitectura y diseño de software.
 
-> *Código estructurado con esfuerzo, sudor y lágrimas.* 💻🔥
+
