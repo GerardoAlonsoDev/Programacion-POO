@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+26
+-sourcepath
+'C:/Users/Gerry-Mel/Downloads/Actividades/Menu_class/Clases/src/main/java;C:/Users/Gerry-Mel/Downloads/Actividades/Menu_class/Clases/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Gerry-Mel/Downloads/Actividades/Menu_class/Clases/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Clases 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Clases 1.0-SNAPSHOT API'
+gerardo_martinez.clases
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\src\main\java = 1790170936771
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\generated-sources\annotations = 1790210105736
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\allclasses-index.html = 1790210160369
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\allpackages-index.html = 1790210160397
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\element-list = 1790210159701
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\help-doc.html = 1790210160797
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\index-all.html = 1790210160628
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\index.html = 1790210160648
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\member-search-index.js = 1790210160421
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\module-search-index.js = 1790210160404
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\overview-tree.html = 1790210160044
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\package-search-index.js = 1790210160411
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\search.html = 1790210160640
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\tag-search-index.js = 1790210160426
+C:\Users\Gerry-Mel\Downloads\Actividades\Menu_class\Clases\target\reports\apidocs\type-search-index.js = 1790210160416
