@@ -14,9 +14,7 @@ public class condicionales {
      int numusu1;
      int numusu2;
      int operacion;
-     String opcion2 = null;
-     int opcion = 0;
-    
+     String opcion2 = null;   
      do{
      System.out.println("===============================");
      System.out.println("= Operador de Numeros enteros =");
@@ -382,5 +380,6 @@ if (numero1 > 0 && numero2 > 0) {
 
         System.out.println("Saliendo del verificador de nombre...");
      
- }   
+ }
 }
+
