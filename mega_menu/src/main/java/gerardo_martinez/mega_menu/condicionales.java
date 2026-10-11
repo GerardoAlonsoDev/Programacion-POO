@@ -316,9 +316,9 @@ if (numero1 > 0 && numero2 > 0) {
      
  }
  public void evaluarnumeros(){
-     /*
-     Crear un programa que pida al usuario dos numeros enteros cortos y diga si son iguales 
-     o, en caso contrario, cual es el mayor de ellos. 
+     /**
+     *Crear un programa que pida al usuario dos numeros enteros cortos y diga si son iguales 
+     *o, en caso contrario, cual es el mayor de ellos. 
      */
      Scanner tcl = new Scanner(System.in);
         short numero1;
@@ -350,12 +350,15 @@ if (numero1 > 0 && numero2 > 0) {
 
         System.out.println("Saliendo del comparador de enteros cortos...");
  }
- public void seguridad(){
-     /*
-     Crear un programa que pida al usuario su nombre, y le diga "Hola" si se llama "Juan", o 
-     bien le diga "No te conozco" si teclea otro nombre. 
+ 
+
+ 
+     /**
+     *Crear un programa que pida al usuario su nombre, y le diga "Hola" si se llama "Juan", o 
+     *bien le diga "No te conozco" si teclea otro nombre. 
      */
-     
+ public void seguridad(){
+
     Scanner tcl = new Scanner(System.in);
         String nombre;
         String opcion;
